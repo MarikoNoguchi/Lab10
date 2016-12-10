@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab10</string>
+    <string name="showMessage">Show Message</string>
+    <string name="showContacts">Show Contracts</string>
+    <string name="hintURL">Enter URL</string>
+    <string name="displayWebsite">Dhisplay Website</string>
+    <string name="enterPhoneNum">Enter Phone Num</string>
+    <string name="viewPhoneDialer">View Phone Dialer</string>
+
+    <string name="tvGreeting">Good Day!</string>
+</resources>
